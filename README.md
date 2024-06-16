@@ -25,15 +25,15 @@ Le projet consiste à développer un programme batch en Java qui implémente les
 ### Cloner le dépôt en HTTPS
 
 ```sh
-git clone <https://github.com/Robin19622/Batch-Java-Project.git>
+git clone <https://github.com/Robin19622/Batch-Java-Final.git>
 ```
 ### Cloner le dépôt en SSH
 ```sh
-git@github.com:Robin19622/Batch-Java-Project.git
+git@github.com:Robin19622/Batch-Java-Final.git
 ```
 ### Cloner le dépôt en GitHub CLI
 ```sh
-gh repo clone Robin19622/Batch-Java-Project
+gh repo clone Robin19622/Batch-Java-Final
 ```
 
 ### Installation de la base PostGreSQL
